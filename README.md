@@ -36,7 +36,7 @@
 У компании 11 офисов, значит у нас должно получится 55 мест установки баннеров. 
 Выведем координаты установки баннера, который ближе всего находится к офису компании.
 
-### Task 6
+### 6
 Отображаем точки расположения баннеров
 _________________________________________________________________________________________________________________________
 
@@ -78,5 +78,5 @@ We load [data on the coordinates of company offices] (datasets/offices.csv). For
 The company has 11 offices, which means we should have 55 places to install banners.
 Let's display the coordinates of the banner installation, which is closest to the company's office.
 
-### Task 6
+### 6
 Display banner location points
